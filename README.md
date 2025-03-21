@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artem A</h1>
 <h3 align="center">A passionate fullstack, frontend/backend developer from Russia</h3>
 
-- 👨‍💻 All of my projects are available at [https://](https://)
+- 👨‍💻 All of my projects are available at [https://artemsnite.ru](https://artemsnite.ru)
 
 - 💬 Ask me about **react, nextjs, python, fastapi**
 

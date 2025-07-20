@@ -1,8 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on [Quaize](https://quaize.ru)<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with React, NextJS, Python, FastAPI, Go<br>🌱 I’m currently learning C++
+### 🔭 I’m currently working on [Quaize](https://quaize.ru)<br>
+**🤝 I’m looking for help with React, NextJS, Python, FastAPI, Go**<br>
+**🌱 I’m currently learning C++**
 
 
 ## 🌐 Socials:
+[![Artemsnite.ru](https://img.shields.io/badge/My%20Website-fff.svg?logo=artemsnitedotru)](https://artemsnite.ru) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me@artemsnite.ru) 
 
 # 💻 Tech Stack:
